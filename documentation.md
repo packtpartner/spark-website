@@ -63,6 +63,18 @@ See the <a href="https://www.youtube.com/channel/UCRzsq7k4-kT-h3TDUBQ82-w">Apach
 
 </ul>
 
+<h4>Video Courses</h4>
+<ul>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/data-science-spark-video">Data Science with Spark</a>, by Eric Charles (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/big-data-processing-using-apache-spark-video">Big Data Processing using Apache Spark</a>, by Tomasz Lelek (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/fast-data-processing-systems-smack-stack-video">Fast Data Processing Systems with SMACK stack</a>, by Raúl Estrada Aparicio (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-fundamentals-video">Apache Spark Fundamentals</a>, by Nishant Garg (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/real-time-streaming-using-apache-spark-streaming-video">Real Time Streaming using Apache Spark Streaming</a>, by Tomasz Lelek (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/spark-machine-learning-video">Spark for Machine Learning</a>, by Tomasz Lelek (Packt)</li>
+<li><a href="https://www.packtpub.com/business/0-1-spark-data-science-python-video">From 0 to 1 : Spark for Data Science with Python</a>, by Loonycorn (Packt)</li>
+
+</ul>
+
 <h4>Spark Summit Videos</h4>
 <ul>
   <li>Videos from Spark Summit 2014, San Francisco, June 30 - July 2 2013
@@ -153,6 +165,7 @@ Slides, videos and EC2-based exercises from each of these are available online:
   <li><a href="http://www.slideshare.net/EvanChan2/cassandra2013-spark-talk-final">Real-time Analytics with Cassandra, Spark, and Shark</a> &mdash; Presentation by Evan Chan from Ooyala at 2013 Cassandra Summit</li>
   <li><a href="http://aws.amazon.com/articles/Elastic-MapReduce/4926593393724923">Run Spark and Shark on Amazon Elastic MapReduce</a> &mdash; Article by Amazon Elastic MapReduce team member Parviz Deyhim</li>
   <li><a href="http://www.ibm.com/developerworks/library/os-spark/">Spark, an alternative for fast data analytics</a> &mdash; IBM Developer Works article by M. Tim Jones</li>
+<li><a href="https://www.packtpub.com/mapt/search_results?query=Apache%20Spark&ss_cck_field_available=Available,Early%20Access">Mapt developer learning platform</a> &mdash; Use Mapt's extensive library to develop your Spark skills - it's easy to program, compatible with Hadoop data, and perfect for massive datasets.</li>  
 </ul>
 
 <h3>Books</h3>
@@ -169,6 +182,15 @@ Slides, videos and EC2-based exercises from each of these are available online:
   <li><a href="http://www.apress.com/9781484209653">Big Data Analytics with Spark: A Practitioner's Guide to Using Spark for Large Scale Data Analysis</a>, by Mohammed Guller (Apress)</li>
   <li><a href="https://www.packtpub.com/big-data-and-business-intelligence/large-scale-machine-learning-spark">Large Scale Machine Learning with Spark</a>, by Md. Rezaul Karim, Md. Mahedi Kaysar (Packt Publishing)</li>
   <li><a href="https://www.packtpub.com/big-data-and-business-intelligence/big-data-analytics">Big Data Analytics with Spark and Hadoop</a>, by Venkat Ankam (Packt Publishing)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-apache-spark-2">Learning Apache Spark 2</a>, by Muhammad Asif Abbasi (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-spark-data-science">Mastering Spark for Data Science</a>, by Andrew Morgan, Antoine Amend, Matthew Hallett, David George (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-spark-second-edition">Machine Learning with Spark - Second Edition</a>, by Rajdeep Dua, Manpreet Singh Ghotra, Nick Pentreath (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-2x-cookbook">Apache Spark 2.x Cookbook</a>, by Rishi Yadav (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-apache-spark-2x-second-edition">Mastering Apache Spark 2.x - Second Edition</a>, by Romeo Kienzler (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-spark-2x">Mastering Machine Learning with Spark 2.x</a>, by Alex Tellez, Max Pumperla, Michal Malohlava (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-machine-learning-cookbook">Apache Spark 2.x Machine Learning Cookbook</a>, by Siamak Amirghodsi, Meenakshi Rajendran, Broderick Hall, Shuen Mei (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/learning-spark-sql">Learning Spark SQL</a>, by Aurobindo Sarkar (Packt)</li>
+<li><a href="https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-2x-java-developers">Apache Spark 2.x for Java Developers</a>, by Sourav Gulati, Sumit Kumar (Packt)</li>  
 </ul>
 
 <h3>Examples</h3>
